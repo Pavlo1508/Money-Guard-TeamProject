@@ -4,7 +4,7 @@
   align-items: center;
   gap: 40px;
   margin: 0 auto;
-  /* height: 568px; */
+  height: 568px;
   min-width: 320px;
   max-width: 360px;
   padding: 23px 20px;
@@ -126,7 +126,7 @@
 }
 
 .error {
-  width: 300px;
+  width: 290px;
   font-size: 10px;
   color: #f00000;
   position: absolute;
